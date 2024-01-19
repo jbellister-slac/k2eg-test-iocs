@@ -1,4 +1,3 @@
-imagesize.db
 record(ai, "K2EG:TEST:IMAGESIZE") 
 {
     field(DESC, "Size for the image")
